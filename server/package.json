@@ -1,0 +1,15 @@
+{
+  "name": "url_shortener_microservice_srv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moshe Reubinoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reubinoff/URLShortenerMicroservice/issues"
+  },
+  "homepage": "https://github.com/reubinoff/URLShortenerMicroservice#readme"
+}
